@@ -1,5 +1,3 @@
-ce mini project est réalisé par
+ce project realiser par :
 Mohameden mohamed zein
 avec matricule 24063
-ET Med mahfodh soidi
-avec matricule 24097)
